@@ -1,35 +1,39 @@
 
-# Getting Started With Django - Getting Started with Django for Web Application Development.
+# Getting Started With Django - Install Django and get setupo for web development
+Install Django and get setupo for web development
 
-![Code Logo](code.png)
-## Description
+![Image image_filename](code.png)
 
-Welcome to the solution **Getting Started With Django** - an example for your projects
+**Django** is a high-level Python web framework renowned for its efficiency and robustness in building web applications. It follows the "Don't Repeat Yourself" (DRY) principle, enabling developers to write clean, maintainable code by emphasizing reusability and reducing redundancy. With its built-in features for handling tasks like URL routing, database management, and user authentication, Django significantly accelerates the development process, making it a popular choice among developers for creating secure, scalable web applications.
 
-Getting Started with Django for Web Application Development.
-    
+![Image image_filename](sample.png)
+
 ## Features
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
-    
+
 ## Notebook Features
-- Self Documenting 
-- Self Testing 
-- Easily Configurable
-- Includes Talking Code - The code explains itself
-- Self Logging 
-- Self Debugging 
-- Low Code - or - No Code
-- Educational 
+- **Self Documenting** - Automatically identifes major steps in notebook 
+- **Self Testing** - Unit Testing for each ptyhon function
+- **Easily Configurable** -easily modifyable with config.INI name value pairs
+- **Includes Talking Code** - The code explains itself.
+- **Self Logging** - enhanced python standard logging   
+- **Self Debugging** - enhanced python standard debugging
+- **Low Code - or - No Code** - Most solutions are under 50 lines of code
+- **Educational** - Includes educational dialogue and background material
     
 ## Getting Started
-To get started with the **Getting Started With Django** solution, follow these steps:
+To get started with the **Getting Started With Django** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and your find your most Critical Data - EASY !
+4. Run the notebook and make it your own - **EASY !**
     
-![Code Logo](developer.png)
+## https://github.com/JoeEberle/ -- josepheberle@outlook.com 
     
+![Developer](developer.png)
+
+![Brand](brand.png)
+    ![additional_image](getting_started_with_django.png)  <br>
