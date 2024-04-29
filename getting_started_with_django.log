@@ -1,0 +1,9 @@
+2024-04-27 21:05:47,073 - INFO - START getting_started_with_django =============================================
+2024-04-27 21:05:47,073 - INFO - START getting_started_with_django Start Time = 2024-04-27 21:05:47
+2024-04-27 21:05:47,073 - INFO - getting_started_with_django Step 0 - Initialize the configuration file parser
+2024-04-27 21:05:47,074 - INFO - Process getting_started_with_django Step 0 - Initializing and starting Logging Process.
+2024-04-27 21:05:52,261 - INFO - PERFORMANCE getting_started_with_django The total process duration was:5.19
+2024-04-27 21:05:52,262 - INFO - PERFORMANCE getting_started_with_django Stop Time = 2024-04-27 21:05:52
+2024-04-27 21:05:52,262 - INFO - PERFORMANCE getting_started_with_django Low process duration less than 3 minutes:5.19
+2024-04-27 21:05:52,262 - INFO - PERFORMANCE getting_started_with_django Performance optimization is optional
+2024-04-27 21:05:52,262 - INFO - END getting_started_with_django =============================================
