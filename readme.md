@@ -1,6 +1,6 @@
 
-# Getting Started With Django - Install Django and get setupo for web development
-Install Django and get setupo for web development
+# Getting Started With Django - Install Django and get setup for web development
+Install Django and get setup for web development
 
 ![Image image_filename](code.png)
 
@@ -36,4 +36,4 @@ To get started with the **Getting Started With Django** solution repository, fol
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](getting_started_with_django.png)  <br>
+    ## Deliverables or Figures![additional_image](getting_started_with_django.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
