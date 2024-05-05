@@ -46,5 +46,5 @@ To get started with the **Getting Started With Django** solution repository, fol
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](getting_started_with_django.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](getting_started_with_django.png)  <br>
     
