@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Getting Started With Django - Install Django and get setup for web development
 Install Django and get setup for web development
 
@@ -7,8 +9,6 @@ Install Django and get setup for web development
 **Django** is a high-level Python web framework renowned for its efficiency and robustness in building web applications. It follows the "Don't Repeat Yourself" (DRY) principle, enabling developers to write clean, maintainable code by emphasizing reusability and reducing redundancy. With its built-in features for handling tasks like URL routing, database management, and user authentication, Django significantly accelerates the development process, making it a popular choice among developers for creating secure, scalable web applications.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
