@@ -59,7 +59,7 @@ To get started with the **Getting Started With Django** solution repository, fol
 - **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
- ![additional_image](getting_started_with_django.png)  <br>
+ ![additional_image](Django Web Framework.png)  <br>![additional_image](getting_started_with_django.png)  <br>
     
 
 ## Github    
