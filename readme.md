@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Getting Started With Django - 5. **Iterative Feedback**: As a living document, the storyboard can be updated as the project progresses, allowing for iterative feedback and adjustments to the analysis or narrative.
-5. **Iterative Feedback**: As a living document, the storyboard can be updated as the project progresses, allowing for iterative feedback and adjustments to the analysis or narrative.
+# Getting Started With Django - Git allows you to quickly download pre-built solutions  
+Git allows you to quickly download pre-built solutions  
 
 ![Image image_filename](code.png)
 
