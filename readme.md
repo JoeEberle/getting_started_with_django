@@ -61,11 +61,8 @@ To get started with the **Getting Started With Django** solution repository, fol
  ![additional_image](Django Web Framework.png)  <br>![additional_image](getting_started_with_django.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
