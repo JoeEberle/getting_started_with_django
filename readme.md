@@ -4,7 +4,25 @@
 
 ## Git allows you to quickly download pre-built solutions  
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 
 ## Overview of Django
 
@@ -30,7 +48,13 @@ With its built-in features for handling tasks like URL routing, database managem
 
 **Django**  is a versatile and powerful framework suitable for a wide range of users, from beginners to experienced developers. Its emphasis on rapid development, scalability, and security makes it a valuable tool for building effective web applications. Whether you are a novice looking to learn web development through mini-projects or a seasoned developer aiming to enhance your productivity, Django provides the necessary tools and support to achieve your goals.
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
