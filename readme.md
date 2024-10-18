@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Getting Started With Django 
-    ## Git allows you to quickly download pre-built solutions  
+    
+# Getting Started With Django 
+
+## Git allows you to quickly download pre-built solutions  
+
     ![Image image_filename](code.png)
 
 ## Overview of Django
@@ -47,9 +50,9 @@ To get started with the **Getting Started With Django** solution repository, fol
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Getting Started With Django** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -59,6 +62,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](Django Web Framework.png)  <br>![additional_image](getting_started_with_django.png)  <br>
