@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Getting Started With Django - Git allows you to quickly download pre-built solutions  
-Git allows you to quickly download pre-built solutions  
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Getting Started With Django - Git allows you to quickly download pre-built solutions  ![Image image_filename](code.png)
 
 ## Overview of Django
 
@@ -31,9 +24,7 @@ With its built-in features for handling tasks like URL routing, database managem
 
 **Django**  is a versatile and powerful framework suitable for a wide range of users, from beginners to experienced developers. Its emphasis on rapid development, scalability, and security makes it a valuable tool for building effective web applications. Whether you are a novice looking to learn web development through mini-projects or a seasoned developer aiming to enhance your productivity, Django provides the necessary tools and support to achieve your goals.
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Getting Started With Django** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -48,6 +39,9 @@ To get started with the **Getting Started With Django** solution repository, fol
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -57,13 +51,11 @@ To get started with the **Getting Started With Django** solution repository, fol
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](Django Web Framework.png)  <br>![additional_image](getting_started_with_django.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
