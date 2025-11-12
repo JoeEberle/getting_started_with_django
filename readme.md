@@ -4,11 +4,7 @@
 
 ## Git allows you to quickly download pre-built solutions  
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 
 ## Overview of Django
 
@@ -34,13 +30,7 @@ With its built-in features for handling tasks like URL routing, database managem
 
 **Django**  is a versatile and powerful framework suitable for a wide range of users, from beginners to experienced developers. Its emphasis on rapid development, scalability, and security makes it a valuable tool for building effective web applications. Whether you are a novice looking to learn web development through mini-projects or a seasoned developer aiming to enhance your productivity, Django provides the necessary tools and support to achieve your goals.
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
